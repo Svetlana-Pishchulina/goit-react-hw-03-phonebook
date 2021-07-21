@@ -1,0 +1,15 @@
+.form {
+  width: 250px;
+  border: 2px solid black;
+  padding: 15px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.input {
+  display: block;
+}
